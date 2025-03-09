@@ -1,4 +1,4 @@
-# Toastify.js Notification Library 🚀
+# Toastify.js Notification Library
 Live demo is available [here](toastify-demonstration.netlify.app)
 
 ## **Introduction**
@@ -14,7 +14,7 @@ Toastify.js is a lightweight JavaScript library for creating stylish and customi
 ✅ **Works with Vanilla JS & Frameworks** – Supports plain JavaScript, React, Vue, and more.  
 
 ## **Installation**
-### 📦 **Using CDN**
+### **Using CDN**
 Add the following links to your HTML file:
 ```html
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
