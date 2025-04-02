@@ -1,5 +1,5 @@
 # Toastify.js Notification Library
-Live demo is available [here](toastify-demonstration.netlify.app)
+Live demo is available [here](0bora0.github.io/Toastify-Demonstration/)
 
 ## **Introduction**
 Toastify.js is a lightweight JavaScript library for creating stylish and customizable toast notifications in web applications. It enables developers to display interactive, non-intrusive messages with various customization options.
